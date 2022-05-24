@@ -1040,3 +1040,11 @@ h4 {
         text-align: center;
     }
 }
+@media (max-width: 767px) {
+.social {
+    
+    width: 30px;
+    display: flex;
+    margin-left: 40px;
+}
+}
