@@ -889,7 +889,8 @@ h4 {
     }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 767px) {    
+    }
     .page-container {
         overflow-x: hidden;
         position: relative;
@@ -1026,7 +1027,7 @@ h4 {
         width: 180px;
         height: 320px;
     }
-}
+
 
 @media (max-width: 400px) {
     .bloc {
